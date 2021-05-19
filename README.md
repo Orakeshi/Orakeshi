@@ -1,4 +1,4 @@
-### 📚 I love learning anything related to tech 📚
+### 📚 I love learning :) 📚
 ## Favourite languges: 
 <p float="left">
   <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_64x64.png"/>
