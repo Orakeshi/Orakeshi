@@ -13,7 +13,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/en/1/1f/Magic_Leap_logo.png"/ width="200">
   </p>
 </div>
-<div align="center">
+<!---<div align="center">
   <h1>Have a random GIF :)</h1>
   <img src="https://i.pinimg.com/originals/20/2b/a9/202ba994a368d5cea1f90c0cfc9c0ba6.gif"/>
-</div>
+</div>-->
