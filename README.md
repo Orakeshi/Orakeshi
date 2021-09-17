@@ -1,5 +1,4 @@
 <div align="center">
-  <h1> 📚 I love learning: I appreciate any Feedback/Criticism :) 📚 </h1>
   <h2> Favourite languges: </h2>
   <p float="left">
     <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp_64x64.png"/>
